@@ -1,5 +1,7 @@
 Thanks for downloading the power buttons/options.
 
+you'll be able to shutdown or restart in just 2 quick clicks
+
 ========================================
 Installation
 ========================================
